@@ -1,0 +1,1 @@
+{"inputUnits":[2],"outputUnits":1,"inputs":{"year":{"dtype":"number","min":1988,"max":2020},"km_driven":{"dtype":"number","min":350,"max":880000}},"outputs":{"selling_price":{"dtype":"number","min":5000,"max":760000}},"isNormalized":true}
